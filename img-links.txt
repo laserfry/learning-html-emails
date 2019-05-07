@@ -1,0 +1,69 @@
+https://i.postimg.cc/qvK3d44H/appstore.png
+https://i.postimg.cc/HLC7YRkc/bell-icon.png *
+https://i.postimg.cc/8CBfj47y/check-icon.png
+https://i.postimg.cc/gcBXXn0P/facebook-icon.png
+https://i.postimg.cc/Gh8BkdBT/google-icon.png
+https://i.postimg.cc/XJjGF5Fn/image-head.jpg
+https://i.postimg.cc/JnpyQhcZ/linkedin-icon.png
+https://i.postimg.cc/SR5JwtPK/logo.png *
+https://i.postimg.cc/nrMXSt05/menu-icon.png
+https://i.postimg.cc/x1Lc4530/one-app.jpg
+https://i.postimg.cc/ZKGWH237/phone-icon.png
+https://i.postimg.cc/q70zVK12/phone-icon-48.png
+https://i.postimg.cc/MGDXWGLN/pinterest-icon.png
+https://i.postimg.cc/fLRykNnL/playstore.png
+https://i.postimg.cc/4d2d9Ss1/settings-icon.png
+https://i.postimg.cc/J0yhc5hC/share-icon.png *
+https://i.postimg.cc/fy6RHS3t/share-icon2.png
+https://i.postimg.cc/BZybZkhS/smartwatch.png *
+https://i.postimg.cc/02wQzn3p/twitter-icon.png
+https://i.postimg.cc/1z95YQzH/watch-screen.png
+https://i.postimg.cc/0yGyfQ9j/watch-screen-37.png
+https://i.postimg.cc/g0NcCTXP/watch-screen-39.png
+https://i.postimg.cc/8zgCMWQx/wifi-icon.png *
+https://i.postimg.cc/76hPwn0J/youtube-icon.png
+
+
+<!-- USERFREINDLY MENUS -->
+                  <table class="left-column" width="50%" align="left" cellpadding="0" cellspacing="0" border="0" style="padding: 15px 15px 0px 15px;">
+                    <tr>
+                      <td>
+                        <table class="notify-icon" width="100%" align="left" cellpadding="0" cellspacing="0" border="0" style="padding: 0">
+                          <tr>
+                            <td>
+                              <img src="https://i.postimg.cc/nrMXSt05/menu-icon.png">
+                            </td>
+                            <td style="padding: 0 0 0 15px; color: #333333;font-weight: 600; text-transform: uppercase; font-size: 15px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande',  sans-serif">USERFREINDLY MENUS</td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="center">
+                        <p style="color: #7f8887;font-weight: 400; line-height: 1.8; font-size: 14px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande',  sans-serif">Regional cooperation can bring countries of a region close together and can reduce.</p>
+                      </td>
+                    </tr>
+                  </table>
+                    <!-- end of USERFRIENDLY MENUS -->
+
+                    <!-- SOCIAL SHARE -->
+                    <table class="right-column" width="50%" align="left" cellpadding="0" cellspacing="0" border="0" style="padding: 15px 15px 0px 15px;">
+                      <tr>
+                        <td>
+                          <table class="notify-icon" width="100%" align="left" cellpadding="0" cellspacing="0" border="0" style="padding: 0">
+                            <tr>
+                              <td>
+                                <img src="https://i.postimg.cc/J0yhc5hC/share-icon.png">
+                              </td>
+                              <td style="padding: 0 0 0 15px; color: #333333;font-weight: 600; text-transform: uppercase; font-size: 15px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande',  sans-serif">SOCIAL SHARE</td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">
+                          <p style="color: #7f8887;font-weight: 400; line-height: 1.8; font-size: 14px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande',  sans-serif">Muriel Bowser's administration says move is unrelated to charges that encryption.</p>
+                        </td>
+                      </tr>
+                    </table>
+                    <!-- end of SOCIAL SHARE -->
